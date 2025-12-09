@@ -10,7 +10,7 @@
     "iconUrl": "https://okielaunch.com/ookie-icon-256x256.png",
     "splashImageUrl": "https://okielaunch.com/ookie-splash-200x200.png",
     "splashBackgroundColor": "#1F2327",
-    "homeUrl": "https://okielaunch.com",
-    "webhookUrl": "https://okielaunch.com/api/farcaster/webhook"
+    "homeUrl": "https://app-b47569db-m879.vercel.app",
+    "webhookUrl": "https://app-b47569db-m879.vercel.app/api/webhook"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "name": "OkieLaunch",
+  "description": "OkieLaunch is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://c815424f-7be6-4616-b818-cb37b47569db.vercel.app",
+  "properties": {
+    "app": {
+      "name": "OkieLaunch",
+      "description": "OkieLaunch is a Base Mini App built with Zara.",
+      "url": "https://c815424f-7be6-4616-b818-cb37b47569db.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
